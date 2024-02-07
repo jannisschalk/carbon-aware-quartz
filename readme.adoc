@@ -1,4 +1,4 @@
-== Quartz Scheduler
+== Carbon Aware Quartz Scheduler
 
 Quartz is a richly featured, open source job scheduling library that can be 
 integrated within virtually any Java application - from the smallest stand-alone 
